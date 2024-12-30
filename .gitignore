@@ -21,3 +21,6 @@ coverage/
 # Optional: ignore built files if you use a build system (e.g., Webpack, Babel)
 build/
 dist/
+
+"node_modules"
+
